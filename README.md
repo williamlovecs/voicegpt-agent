@@ -56,12 +56,12 @@ Setup Instructions:
 
 TODO:
 -----
-[ ] Implement Whisper STT module
-[ ] Connect GPT-4 API for prompt-based response
-[ ] Integrate Edge TTS for voice output
-[ ] Add Streamlit interface
-[ ] Dockerize the project
-[ ] GCP deployment setup
+- [ ] Implement Whisper STT module
+- [ ] Connect GPT-4 API for prompt-based response
+- [ ] Integrate Edge TTS for voice output
+- [ ] Add Streamlit interface
+- [ ] Dockerize the project
+- [ ] GCP deployment setup
 
 Author:
 -------
