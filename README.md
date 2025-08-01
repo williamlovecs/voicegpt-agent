@@ -65,10 +65,10 @@ TODO:
 
 Author:
 -------
-Xin (William) Xu  
-B.S. in Computer Science, The Ohio State University  
-Bilingual: English & Mandarin  
-LinkedIn: https://linkedin.com/in/xin-william-xu-4a5b2116a/
+- Xin (William) Xu  
+- B.S. in Computer Science, The Ohio State University  
+- Bilingual: English & Mandarin  
+- LinkedIn: https://linkedin.com/in/xin-william-xu-4a5b2116a/
 
 Note:
 -----
